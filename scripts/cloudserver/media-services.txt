@@ -1,0 +1,7 @@
+lidarr
+radarr
+sonarr
+readarr
+bazarr
+plexmm
+tautulli
